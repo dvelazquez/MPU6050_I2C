@@ -1,0 +1,7 @@
+#! /bin/sh
+while :
+do
+Temperature="$(./mpu-6050-gettemp)"
+echo "Temp= ${Temperature}"
+
+done

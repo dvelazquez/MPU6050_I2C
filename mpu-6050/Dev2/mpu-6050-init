@@ -1,0 +1,3 @@
+#! /bin/sh
+
+i2cset -y 1 0x69 0x6b 0

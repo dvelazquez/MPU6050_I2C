@@ -1,0 +1,6 @@
+#! /bin/sh
+while :
+do
+Temperature=./mpu-6050-gettemp
+http://www.bitwizard.nl/software/mpu-6050-tools.tar.gz
+done
